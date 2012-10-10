@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMvcApp", "SampleMvcApp\SampleMvcApp.csproj", "{A291F69D-8E27-4A92-9149-ADBCDF15CEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap.Laces", "Bootstrap.Laces\Bootstrap.Laces.csproj", "{B7196FED-7726-40D1-818B-0F6F80C53495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A291F69D-8E27-4A92-9149-ADBCDF15CEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A291F69D-8E27-4A92-9149-ADBCDF15CEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A291F69D-8E27-4A92-9149-ADBCDF15CEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A291F69D-8E27-4A92-9149-ADBCDF15CEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7196FED-7726-40D1-818B-0F6F80C53495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7196FED-7726-40D1-818B-0F6F80C53495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7196FED-7726-40D1-818B-0F6F80C53495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7196FED-7726-40D1-818B-0F6F80C53495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 0b193525-bccb-443b-90f7-c38d8100536e
+	EndGlobalSection
+EndGlobal
